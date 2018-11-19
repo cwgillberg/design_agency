@@ -65,6 +65,17 @@ li a:hover:not(.active) {
     margin-right: auto;
 }
 
+#rightmain_contact {
+    /*float: right;*/
+    height: 100%;
+    width: 50%;
+    color: white;
+    background-color: darkgray;
+    padding-left: 10px;
+    /*text-align: center;*/
+    margin-left: auto;
+    margin-right: auto;
+}
 #navbar {
     text-align: center;
 }
